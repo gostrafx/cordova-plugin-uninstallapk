@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-uninstallapk",
+  "version": "1.0.3",
+  "description": "Cordova plugin Uninstall APK",
+  "cordova": {
+    "id": "cordova-plugin-uninstallapk",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gostrafx/cordova-plugin-uninstallapk.git"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "uninstallapk",
+    "removeapk",
+    "uninstall",
+    "remove apk",
+    "uninstall apk",
+    "apk",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Gostrafx",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gostrafx/cordova-plugin-uninstallapk/issues"
+  },
+  "homepage": "https://github.com/gostrafx/cordova-plugin-uninstallapk#readme"
+}
